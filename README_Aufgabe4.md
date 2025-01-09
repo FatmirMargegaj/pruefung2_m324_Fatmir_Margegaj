@@ -1,0 +1,1 @@
+Die Action `actions/cache@v3` cacht Node.js-Abhängigkeiten basierend auf der Datei `package-lock.json`. Sie reduziert die Installationszeit und beschleunigt wiederholte Builds, was die Effizienz in der CI/CD-Pipeline steigert.
